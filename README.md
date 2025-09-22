@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # QenraAi-Frontend
 >>>>>>> 697cdbcaca97b488aeff9d27463461ee3d822e22
+# QenraAi
